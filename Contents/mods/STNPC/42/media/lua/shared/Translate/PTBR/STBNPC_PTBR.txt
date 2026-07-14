@@ -1,0 +1,55 @@
+STBNPC_LOG_INIT=Sistema inicializado
+STBNPC_LOG_SQUAD_ADD = "Entrou para o grupo"
+STBNPC_LOG_SQUAD_REMOVE = "Saiu do grupo"
+
+STBNPC_LOG_SQUAD_NO_TARGET = "Nenhum alvo selecionado"
+
+STBNPC_LOG_SQUAD_MODE_FOLLOW = "Modo do grupo alterado para Seguir"
+STBNPC_LOG_SQUAD_MODE_HOLD = "Modo do grupo alterado para Manter Posição"
+STBNPC_LOG_SQUAD_MODE_PATROL = "Modo do grupo alterado para Patrulha"
+STBNPC_LOG_SQUAD_MODE_GUARD = "Modo do grupo alterado para Guarda"
+
+STBNPC_NEED_FOOD = "Preciso comer."
+STBNPC_NEED_REST = "Estou exausto."
+STBNPC_CLEANING = "Limpando a base."
+STBNPC_IDLE = "Aguardando ordens."
+
+STBNPC_FARMING = "Trabalhando na plantação."
+STBNPC_GATHERING = "Coletando recursos."
+
+STBNPC_ASSIGNED_TOTEM = "Designado para a base"
+
+STBNPC_ROLE_ASSAULT = "Assalto"
+STBNPC_ROLE_SUPPORT = "Suporte"
+STBNPC_ROLE_GUARD = "Guarda"
+
+STBNPC_COMMAND_FOLLOW = "Siga-me"
+STBNPC_COMMAND_HOLD = "Mantenha posição"
+STBNPC_COMMAND_PATROL = "Patrulhe a área"
+STBNPC_COMMAND_GUARD = "Proteja o local"
+
+STBNPC_RECRUIT_SUCCESS = "Vou me juntar a você."
+STBNPC_RECRUIT_FAILED = "Eu me recuso."
+STBNPC_RECRUIT_SURRENDER = "Não atire! Eu me rendo."
+
+STBNPC_PARTY_FULL = "Seu grupo está cheio."
+STBNPC_CANNOT_RECRUIT = "Não foi possível recrutar o alvo."
+
+STBNPC_TARGET_LOCKED = "Alvo adquirido"
+STBNPC_TARGET_LOST = "Alvo perdido"
+
+STBNPC_BASE_HUNGRY = "A base precisa de comida."
+STBNPC_BASE_LOW_MATERIALS = "A base precisa de suprimentos."
+STBNPC_BASE_DIRTY = "A base precisa de limpeza."
+
+STBNPC_SLEEPING = "Vou descansar."
+STBNPC_EATING = "Hora de comer."
+
+STBNPC_GUARD_SHIFT_START = "Iniciando turno de guarda."
+STBNPC_GUARD_SHIFT_END = "Encerrando turno de guarda."
+
+STBNPC_BED_REQUIRED = "Preciso de uma cama."
+STBNPC_TIRED = "Estou cansado demais."
+STBNPC_HUNGER_WARNING = "Estou ficando com fome."
+
+STBNPC_ABANDON_BASE = "Estou deixando este lugar."

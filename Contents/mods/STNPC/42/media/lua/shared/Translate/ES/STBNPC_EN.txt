@@ -1,0 +1,59 @@
+STBNPC_LOG_INIT=System initialized
+STBNPC_LOG_PARTY_ADDED=NPC added to party
+STBNPC_LOG_PARTY_REMOVED=NPC removed from party
+STBNPC_LOG_PARTY_FULL=Party is full
+STBNPC_LOG_NPC_REGISTERED=NPC registered
+STBNPC_LOG_SQUAD_ADD = "Joined Squad"
+STBNPC_LOG_SQUAD_REMOVE = "Left Squad"
+
+STBNPC_LOG_SQUAD_NO_TARGET = "No target selected"
+
+STBNPC_LOG_SQUAD_MODE_FOLLOW = "Squad mode changed to Follow"
+STBNPC_LOG_SQUAD_MODE_HOLD = "Squad mode changed to Hold"
+STBNPC_LOG_SQUAD_MODE_PATROL = "Squad mode changed to Patrol"
+STBNPC_LOG_SQUAD_MODE_GUARD = "Squad mode changed to Guard"
+
+STBNPC_NEED_FOOD = "I need food."
+STBNPC_NEED_REST = "I'm exhausted."
+STBNPC_CLEANING = "Cleaning the base."
+STBNPC_IDLE = "Standing by."
+
+STBNPC_FARMING = "Working on crops."
+STBNPC_GATHERING = "Gathering resources."
+
+STBNPC_ASSIGNED_TOTEM = "Assigned to Totem Base"
+
+STBNPC_ROLE_ASSAULT = "Assault"
+STBNPC_ROLE_SUPPORT = "Support"
+STBNPC_ROLE_GUARD = "Guard"
+
+STBNPC_COMMAND_FOLLOW = "Follow me"
+STBNPC_COMMAND_HOLD = "Hold position"
+STBNPC_COMMAND_PATROL = "Patrol area"
+STBNPC_COMMAND_GUARD = "Guard location"
+
+STBNPC_RECRUIT_SUCCESS = "I will join you."
+STBNPC_RECRUIT_FAILED = "I refuse."
+STBNPC_RECRUIT_SURRENDER = "Don't shoot! I surrender."
+
+STBNPC_PARTY_FULL = "Your squad is full."
+STBNPC_CANNOT_RECRUIT = "Unable to recruit target."
+
+STBNPC_TARGET_LOCKED = "Target acquired"
+STBNPC_TARGET_LOST = "Target lost"
+
+STBNPC_BASE_HUNGRY = "The base needs food."
+STBNPC_BASE_LOW_MATERIALS = "The base needs supplies."
+STBNPC_BASE_DIRTY = "The base needs cleaning."
+
+STBNPC_SLEEPING = "Going to rest."
+STBNPC_EATING = "Time to eat."
+
+STBNPC_GUARD_SHIFT_START = "Starting guard shift."
+STBNPC_GUARD_SHIFT_END = "Ending guard shift."
+
+STBNPC_BED_REQUIRED = "I need a bed."
+STBNPC_TIRED = "I'm too tired."
+STBNPC_HUNGER_WARNING = "I'm getting hungry."
+
+STBNPC_ABANDON_BASE = "I'm leaving this place."

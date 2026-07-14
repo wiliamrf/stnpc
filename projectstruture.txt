@@ -1,0 +1,57 @@
+STBNPC/
+│
+├── mod.info
+├── poster.png
+│
+└── media/
+    └── lua/
+        │
+        ├── shared/
+        │   ├── STBNPC_Core.lua
+        │   ├── STBNPC_Config.lua
+        │   ├── STBNPC_Constants.lua
+        │   ├── STBNPC_Utils.lua
+        │   │
+        │   ├── AI/
+        │   │   ├── STBNPC_AIController.lua
+        │   │   ├── STBNPC_StateMachine.lua
+        │   │   ├── STBNPC_DutyCycle.lua
+        │   │   └── STBNPC_Bridge_Bandits.lua
+        │   │
+        │   ├── Party/
+        │   │   ├── STBNPC_PartyManager.lua
+        │   │   ├── STBNPC_PartyAI.lua
+        │   │   ├── STBNPC_PartyCommands.lua
+        │   │   └── STBNPC_PartyCombat.lua
+        │   │
+        │   ├── Totem/
+        │   │   ├── STBNPC_TotemManager.lua
+        │   │   ├── STBNPC_TotemAI.lua
+        │   │   ├── STBNPC_TotemTasks.lua
+        │   │   └── STBNPC_TotemZones.lua
+        │   │
+        │   ├── Tasks/
+        │   │   ├── STBNPC_TaskWorker.lua
+        │   │   ├── STBNPC_TaskCombat.lua
+        │   │   ├── STBNPC_TaskFarm.lua
+        │   │   ├── STBNPC_TaskCleanup.lua
+        │   │   └── STBNPC_TaskPatrol.lua
+        │   │
+        │   └── Translate/
+        │       ├── EN/
+        │       │   └── STBNPC_EN.txt
+        │       ├── PT/
+        │       │   └── STBNPC_PT.txt
+        │       ├── ES/
+        │       │   └── STBNPC_ES.txt
+        │       └── STBNPC_TranslateHelper.lua
+        │
+        ├── client/
+        │   ├── STBNPC_ClientUI.lua
+        │   ├── STBNPC_HUD.lua
+        │   └── STBNPC_Input.lua
+        │
+        └── server/
+            ├── STBNPC_ServerSync.lua
+            ├── STBNPC_NPCSpawner.lua
+            └── STBNPC_SaveData.lua
